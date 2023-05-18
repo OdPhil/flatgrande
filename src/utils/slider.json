@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Villa Verde",
+    "price": "147m",
+    "detail": "123 Emerald Street, Lekki Phase 1, Lagos State, Nigeria",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Serenity Manor",
+    "price": "132m",
+    "detail": "10 Abdullahi Crescent, Asokoro, Abuja, Nigeria",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Harmony Heights",
+    "price": "89m",
+    "detail": "789 Harmony Close, Ikeja, Lagos State, Nigeria",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Villa Verde",
+    "price": "147m",
+    "detail": "123 Emerald Street, Lekki Phase 1, Lagos State, Nigeria",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Serenity Manor",
+    "price": "132m",
+    "detail": "10 Abdullahi Crescent, Asokoro, Abuja, Nigeria",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Harmony Heights",
+    "price": "89m",
+    "detail": "789 Harmony Close, Ikeja, Lagos State, Nigeria",
     "image": "./r3.png"
   }
 ]
