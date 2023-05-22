@@ -13,8 +13,7 @@ const Hero = () => {
             <div className="orange-circle" />
             <h1>
               Discover <br />
-              Your Perfect Home <br />
-              with Flatgrande
+              Your Perfect Home
             </h1>
           </div>
           <div className="flexColStart hero-des">
